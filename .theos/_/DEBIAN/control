@@ -1,0 +1,11 @@
+Package: com.kaneb.easyaccessaddon
+Name: EasyAccess AddOn
+Description: Double tap statusBar - EasyAccess activation
+Priority: optional
+Section: Addons (EasyAccess)
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, com.kaneb.easyaccess
+Maintainer: Kane Buckthorpe
+Author: Kane Buckthorpe
+Version: 0.1.2
+Installed-Size: 200
